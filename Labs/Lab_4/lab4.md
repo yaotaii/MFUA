@@ -7,8 +7,9 @@
 ![](Task.png)
 Вариант 9
 
-![](cmd1.png)
-![](cmd2.png)
+
+![jgv](cmd1.png)
+![uigu](cmd2.png) 
 
 ## Задание 2
 
